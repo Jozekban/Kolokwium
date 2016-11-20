@@ -1,0 +1,9 @@
+C:\Users\local\Desktop\Zestaw_17\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\local\Desktop\Zestaw_17\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\local\Desktop\Zestaw_17\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\local\Desktop\Zestaw_17\Zadanie\obj\Debug\Zadanie.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Zestaw_17\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\local\Desktop\Zestaw_17\Zadanie\obj\Debug\Zadanie.pdb
+C:\projekt\Zestaw_17\Zadanie\bin\Debug\Zadanie.exe.config
+C:\projekt\Zestaw_17\Zadanie\obj\Debug\Zadanie.exe
+C:\projekt\Zestaw_17\Zadanie\obj\Debug\Zadanie.pdb
